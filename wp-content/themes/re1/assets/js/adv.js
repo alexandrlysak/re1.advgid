@@ -1,0 +1,1 @@
+if (adv_code !== null) {document.title = adv_code+' '+document.title;}

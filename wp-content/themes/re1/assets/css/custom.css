@@ -1,0 +1,125 @@
+#global_dialog_regions_2 .h2 a {
+    font-size: 13px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #444;
+    padding: 2px;
+}
+
+#global_dialog_regions_2 .h2 a:hover {
+    background: #ccc;
+    text-decoration: none;
+}
+
+table.c-calendar {
+    border-collapse: collapse;
+    border: none;
+    width: 560px;
+}
+
+td.c-day {
+    font-size: 14px;
+    position: relative;
+    border: none;
+    padding: 1px;
+    width: 38px;
+}
+
+div.c-busy {
+    position: relative;
+}
+
+div.c-date {
+    color: #000000;
+    font-weight: 700;
+    padding-bottom: 7px;
+    padding-top: 7px;
+    text-align: center;
+    background: #E6E6E6;
+    border: 1px solid #D3D3D3;
+    font-family: "Verdana", "Arial", sans-serif;
+    font-size: 14px;
+}
+
+div.c-b {
+    background: #FFFFFF;
+    height: 34px;
+    opacity: 0;
+    -moz-opacity: 0;
+    filter: alpha(opacity=0);
+    position: absolute;
+    top: 1px;
+    width: 18px;
+}
+
+div.c-b1 {
+    left: 1px;
+}
+
+div.c-b2 {
+    left: 19px;
+}
+
+td.c-months {
+    font-size: 11px;
+    font-weight: bold;
+    text-align: center;
+    overflow: visible;
+}
+
+div.active-1 {
+    background-color: #FF0000;
+    opacity: 0.4;
+    -moz-opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.active-2 {
+    background-color: #FF9900;
+    opacity: 0.4;
+    -moz-opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.active-3 {
+    background-color: #ffff00;
+    opacity: 0.4;
+    -moz-opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+div.active-4 {
+    background-color: #00CC00;
+    opacity: 0.4;
+    -moz-opacity: 0.4;
+    filter: alpha(opacity=40);
+}
+
+td.cc-cursor {
+    width: 30px;
+    vertical-align: bottom;
+    padding-bottom: 8px;
+}
+
+td.cc-cursor a, #hpmain td.cc-cursor a {
+    font-size: 16px;
+    font-weight: bold;
+    color: #9F9F9F;
+    text-decoration: none;
+    padding: 1px;
+}
+
+td.cc-cursor a:hover, #hpmain td.cc-cursor a:hover {
+    background: #EDEDED;
+    color: #000;
+}
+
+td.c-holiday div.c-date {
+    border: 2px solid #000;
+    padding-bottom: 6px;
+    padding-top: 6px;
+}
+
+.catalog .open-c header a {
+    color: #FF0000;
+}

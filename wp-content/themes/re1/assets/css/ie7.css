@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.gallery .small li {
+	display:inline;
+}
+
+.catalog2 article {
+	margin-right:41px;
+}
