@@ -1,0 +1,23 @@
+@charset "utf-8";
+
+.btn {
+	background:#23a7c3 url(../img/repeats.png) repeat-x;
+}
+
+.btn-orange {
+	background-color:#ec740b;
+	background-position:0 -181px;
+}
+
+.btn-green {
+	background-color:#ec740b;
+	background-position:0 -127px;
+}
+
+.btn-grey {
+	color:#c1c1c1;
+	background-color:#dbdbdb;
+	background-position:0 -236px;
+	background-image:url(../img/repeats.png);
+	background-repeat:repeat-x;
+}
